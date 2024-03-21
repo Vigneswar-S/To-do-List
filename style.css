@@ -50,7 +50,9 @@
     background: transparent;
     padding: 10px;
     font-weight: 15px;
+    font-size: 25px;
 }
+
 
 .search button{
     border: none;
@@ -70,7 +72,7 @@
     user-select: none;
     cursor: pointer;
     position: relative;
-
+    text-transform: uppercase;
 }
  ul li::before{
     content: '';
