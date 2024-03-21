@@ -113,3 +113,10 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+ 
+@media  screen and (max-width:500px) {
+    .container{
+        display: none;
+
+    }
+}
